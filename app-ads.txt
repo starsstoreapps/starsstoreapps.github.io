@@ -120,3 +120,6 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+#pangle
+pangleglobal.com, 87803, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
